@@ -96,7 +96,7 @@ async function fetchAccountData() {
 
   document.querySelector("#selected-account").textContent = selectedAccount;
 
-  // Get a handl
+  // Get a handle
   const template = document.querySelector("#template-balance");
   const accountContainer = document.querySelector("#accounts");
 
